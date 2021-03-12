@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TesaRocks
+- 👋 Hi, I’m @TesaRocks, my name is Alexis Dietl.
 - 👀 I’m interested in: Front end web Development
 - 🌱 I’m currently learning Angular @ udemy and CS50’s Web Programming with Python and JavaScript by Harvard
 - 💞️ I’m looking to collaborate on any topic regarding web development.
