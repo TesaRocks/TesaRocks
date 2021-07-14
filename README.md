@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TesaRocks, my name is Alexis Dietl.
 - 🌱 Junior Software developer looking for my first IT job.
-- 👀 I’m interested in: Angular Front end web Development with NGRX.
+- 👀 I’m interested in: Angular Front end web Development with NGRX and Material UI.
 
 
 
