@@ -11,7 +11,8 @@ I am Located in Argentina. I would love to work remotely.
 Technologies I have been practicing on:
 * Linux, GIT
 * Docker, Node.js, Express.js, Postman, Mysql, Mysql WorkBench
-* Typescript, Angular/NGRX, Material,SASS, Webpack, etc.
+* Typescript, Angular/NGRX, Material,SASS, Webpack
+* C,Javascript, Python, Django, Flask, Html, Css, Bootstrap
 
 - 📫 How to reach me: alexisdietl@gmail.com
 
