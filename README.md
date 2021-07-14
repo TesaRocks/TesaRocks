@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @TesaRocks, my name is Alexis Dietl.
 - 🌱 Junior Software developer looking for my first IT job.
-- 👀 I’m interested in: Angular Front end web Development with NGRX and Material UI.
+- 👀 I’m interested in:  Front end web Development with Angular/ NGRX and Angular Material.
 
 
 
-I have been practicing with Angular/NGRX/Material for the front  and Node.js with Express Js. for the back-end.
+I have been practicing with Angular/NGRX/Material for the front  and Node.js with Express Js. and MySql for the back-end.
 
 I am Located in Argentina. I would love to work remotely.
 
 Technologies I have been practicing on:
 * Linux, GIT
+* Typescript, Angular/NGRX, Angular Material,SASS, Webpack
 * Docker, Node.js, Express.js, Postman, Mysql, Mysql WorkBench
-* Typescript, Angular/NGRX, Material,SASS, Webpack
 * C,Javascript, Python, Django, Flask, Html, Css, Bootstrap
 
 - 📫 How to reach me: alexisdietl@gmail.com
