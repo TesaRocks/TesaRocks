@@ -2,9 +2,8 @@
 - 👀 I’m interested in: Front end web Development 
 - 🌱 Junior Software developer looking for my first IT job.
 
-I am currently self employed on the insurance industry and in the sports industry. I hold a university degree in Business Administration and I am fluent in English, Spanish, French and Portuguese.
 
-I have been practicing with Angular/NGRX/Material and Node.js with Express Js..
+I have been practicing with Angular/NGRX/Material for the front  and Node.js with Express Js. for the back-end.
 
 I am Located in Argentina. I would love to work remotely.
 
