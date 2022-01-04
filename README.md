@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TesaRocks, my name is Alexis Dietl.
-- 🌱 Software developer looking for my first IT job.
 - 👀 I’m interested in: Front end web Development with Angular and NGRX.
 
 
